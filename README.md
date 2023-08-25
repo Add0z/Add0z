@@ -18,12 +18,12 @@ I am a technology enthusiast interested in Data Science and Software Engineering
 ![SQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
 
 ### Soft Skills
-![Communicative](https://img.shields.io/badge/Communicative-000?style=for-the-badge)
-![Communicative](https://img.shields.io/badge/Communicative-000?style=for-the-badge)
+![Problem-Solving](https://img.shields.io/badge/Problem_Solving-000?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-000?style=for-the-badge)
 ![Communicative](https://img.shields.io/badge/Communicative-000?style=for-the-badge)
 ![Proactive](https://img.shields.io/badge/Proactive-000?style=for-the-badge)
 ![Organized](https://img.shields.io/badge/Organized-000?style=for-the-badge)
-![Empathetic](https://img.shields.io/badge/Empathetic-000?style=for-the-badge)
+![Learning Agility](https://img.shields.io/badge/Learning_Agility-000?style=for-the-badge)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Add0z&layout=compact&bg_color=66000000&border_color=edeef0&title_color=b07113&text_color=FFF)
 
