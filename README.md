@@ -25,6 +25,6 @@ I am a technology enthusiast interested in Data Science and Software Engineering
 ![Organized](https://img.shields.io/badge/Organized-000?style=for-the-badge)
 ![Empathetic](https://img.shields.io/badge/Empathetic-000?style=for-the-badge)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Add0z&layout=compact&bg_color=000&border_color=4622bd&title_color=4f1df2&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Add0z&layout=compact&bg_color=66000000&border_color=edeef0&title_color=b07113&text_color=FFF)
 
 
